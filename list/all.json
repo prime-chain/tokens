@@ -1,0 +1,24 @@
+{
+  "name": "Prime DEX",
+  "timestamp": "2022-09-09T02:54:08.002Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "logoURI": "https://primechain.network/images/tokens/pmc.png",
+  "keywords": [
+    "primeswap",
+    "primedex"
+  ],
+  "tokens": [
+    {
+      "name": "Praime Chain BSC",
+      "symbol": "PMC",
+      "address": "0x933Ae540ca1096E44e9e57a88d616F01D043E48b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
